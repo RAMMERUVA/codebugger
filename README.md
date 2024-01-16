@@ -5,6 +5,7 @@ int main()
 {
 int a=10.b=20;
 sum = a+b;
-printf("%d", sum);
+minus = a-b;
+printf("%d", sum, minus);
 return 0;
 }
